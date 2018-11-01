@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e9699eb-c51b-42f1-ba61-362b459d06ea" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.3_Project_Boost/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.3_Project_Boost/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Background.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Background.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Black.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Black.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Blue.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Blue.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DangerRed.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DangerRed.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Death_Explosion_SFX.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Death_Explosion_SFX.ogg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Earth.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Earth.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Explosion Particles.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Explosion Particles.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Green.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Green.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Landing Pad.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Landing Pad.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Launch Pad.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Launch Pad.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Level 1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Level 1.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Level 1.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Level 1/LightingData.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Level 1/LightingData.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Level 1/ReflectionProbe-0.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Level 1/ReflectionProbe-0.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Level 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Level 2.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Level 2.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Level 2/LightingData.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Level 2/LightingData.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Level 2/ReflectionProbe-0.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Level 2/ReflectionProbe-0.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LightBlue.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LightBlue.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MetalGrey.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MetalGrey.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Obstacle.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Obstacle.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Obstacles.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Obstacles.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rocket Jet Particles.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rocket Jet Particles.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rocket Ship.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Rocket Ship.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rocket.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Rocket.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rocket_thruster_SFX.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rocket_thruster_SFX.ogg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sandbox.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sandbox.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Success Particles.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Success Particles.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Terrain.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Terrain.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/jingle_chime_03_positive.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/jingle_chime_03_positive.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-296730971">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="3032" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="3032" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Rocket.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="606">
+              <caret line="155" column="83" selection-start-line="155" selection-start-column="83" selection-end-line="155" selection-end-column="83" />
+              <folding>
+                <marker date="1540861319450" expanded="false" signature="6:127" ph="..." />
+                <marker date="1540861319450" expanded="true" signature="164:3502" ph="{...}" />
+                <marker date="1540861319450" expanded="true" signature="860:952" ph="{...}" />
+                <marker date="1540861319450" expanded="true" signature="1006:1162" ph="{...}" />
+                <marker date="1540861319450" expanded="true" signature="1037:1099" ph="{...}" />
+                <marker date="1540861319450" expanded="true" signature="1126:1159" ph="{...}" />
+                <marker date="1540861319450" expanded="true" signature="1198:1359" ph="{...}" />
+                <marker date="1540861319450" expanded="true" signature="1236:1264" ph="{...}" />
+                <marker date="1540861319450" expanded="true" signature="1303:1356" ph="{...}" />
+                <marker date="1540861319450" expanded="true" signature="1412:1690" ph="{...}" />
+                <marker date="1540861319450" expanded="true" signature="1466:1485" ph="{...}" />
+                <marker date="1540861319450" expanded="true" signature="1524:1687" ph="{...}" />
+                <marker date="1540861319450" expanded="true" signature="1728:1913" ph="{...}" />
+                <marker date="1540861319450" expanded="true" signature="1950:2125" ph="{...}" />
+                <marker date="1540861319450" expanded="true" signature="2156:2449" ph="{...}" />
+                <marker date="1540861319450" expanded="true" signature="2373:2404" ph="{...}" />
+                <marker date="1540861319450" expanded="true" signature="2482:2517" ph="{...}" />
+                <marker date="1540861319450" expanded="true" signature="2555:2691" ph="{...}" />
+                <marker date="1540861319450" expanded="true" signature="2593:2619" ph="{...}" />
+                <marker date="1540861319450" expanded="true" signature="2626:2688" ph="{...}" />
+                <marker date="1540861319450" expanded="true" signature="2720:2907" ph="{...}" />
+                <marker date="1540861319450" expanded="true" signature="2825:2904" ph="{...}" />
+                <marker date="1540861319450" expanded="true" signature="2945:3500" ph="{...}" />
+                <marker date="1540861319450" expanded="true" signature="3038:3250" ph="{...}" />
+                <marker date="1540861319450" expanded="true" signature="3284:3497" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Oscillator.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+              <folding>
+                <marker date="1540792359519" expanded="false" signature="6:92" ph="..." />
+                <marker date="1540792359519" expanded="true" signature="161:1003" ph="{...}" />
+                <marker date="1540792359519" expanded="true" signature="502:544" ph="{...}" />
+                <marker date="1540792359519" expanded="true" signature="598:1001" ph="{...}" />
+                <marker date="1540792359519" expanded="true" signature="668:687" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Rocket.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Oscillator.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Oscillator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Rocket.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1696" />
+    <option name="y" value="170" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e9699eb-c51b-42f1-ba61-362b459d06ea" name="Default Changelist" comment="" />
+      <created>1537238624351</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537238624351</updated>
+      <workItem from="1537238628151" duration="5620000" />
+      <workItem from="1540671895307" duration="7884000" />
+      <workItem from="1540845582431" duration="597000" />
+      <workItem from="1540852907899" duration="3184000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17285000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1696" y="170" width="1440" height="877" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" weight="0.32866243" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/NewSurfaceShader.shader" />
+    <entry file="file://$PROJECT_DIR$/Assets/Oscillator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+          <folding>
+            <marker date="1540792359519" expanded="false" signature="6:92" ph="..." />
+            <marker date="1540792359519" expanded="true" signature="161:1003" ph="{...}" />
+            <marker date="1540792359519" expanded="true" signature="502:544" ph="{...}" />
+            <marker date="1540792359519" expanded="true" signature="598:1001" ph="{...}" />
+            <marker date="1540792359519" expanded="true" signature="668:687" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Rocket.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="155" column="83" selection-start-line="155" selection-start-column="83" selection-end-line="155" selection-end-column="83" />
+          <folding>
+            <marker date="1540861319450" expanded="false" signature="6:127" ph="..." />
+            <marker date="1540861319450" expanded="true" signature="164:3502" ph="{...}" />
+            <marker date="1540861319450" expanded="true" signature="860:952" ph="{...}" />
+            <marker date="1540861319450" expanded="true" signature="1006:1162" ph="{...}" />
+            <marker date="1540861319450" expanded="true" signature="1037:1099" ph="{...}" />
+            <marker date="1540861319450" expanded="true" signature="1126:1159" ph="{...}" />
+            <marker date="1540861319450" expanded="true" signature="1198:1359" ph="{...}" />
+            <marker date="1540861319450" expanded="true" signature="1236:1264" ph="{...}" />
+            <marker date="1540861319450" expanded="true" signature="1303:1356" ph="{...}" />
+            <marker date="1540861319450" expanded="true" signature="1412:1690" ph="{...}" />
+            <marker date="1540861319450" expanded="true" signature="1466:1485" ph="{...}" />
+            <marker date="1540861319450" expanded="true" signature="1524:1687" ph="{...}" />
+            <marker date="1540861319450" expanded="true" signature="1728:1913" ph="{...}" />
+            <marker date="1540861319450" expanded="true" signature="1950:2125" ph="{...}" />
+            <marker date="1540861319450" expanded="true" signature="2156:2449" ph="{...}" />
+            <marker date="1540861319450" expanded="true" signature="2373:2404" ph="{...}" />
+            <marker date="1540861319450" expanded="true" signature="2482:2517" ph="{...}" />
+            <marker date="1540861319450" expanded="true" signature="2555:2691" ph="{...}" />
+            <marker date="1540861319450" expanded="true" signature="2593:2619" ph="{...}" />
+            <marker date="1540861319450" expanded="true" signature="2626:2688" ph="{...}" />
+            <marker date="1540861319450" expanded="true" signature="2720:2907" ph="{...}" />
+            <marker date="1540861319450" expanded="true" signature="2825:2904" ph="{...}" />
+            <marker date="1540861319450" expanded="true" signature="2945:3500" ph="{...}" />
+            <marker date="1540861319450" expanded="true" signature="3038:3250" ph="{...}" />
+            <marker date="1540861319450" expanded="true" signature="3284:3497" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
